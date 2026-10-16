@@ -1,2 +1,2 @@
 # teapot,caveduck-html-previewer
-HTML previewer for Caveduck-style inline HTML
+HTML previewer for Teapot, Caveduck-style inline HTML
